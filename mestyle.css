@@ -1,0 +1,90 @@
+body {
+	background-color: #f0f0f5;
+	color: #555;
+	font: 17px Arial, Helvetica, sans-serif;
+	line-height: 1.5em;
+	margin: 0;
+}
+.container {
+	width: 80%;
+	margin: auto;
+	overflow: auto;
+}
+#top-header {
+	background-color: #8585ad;
+	color: #fff;
+
+}
+#links {
+        background-color: #e0e0ed;  
+}
+#links a {
+        color:  #808080 ;
+        text-align: left;
+        padding: 17px;;
+}
+#links li {
+        display: inline;
+}
+img {
+    width: 200px;
+}
+#aboutme { 
+    float: left;
+    text-align: left;
+    margin-top: 5px;
+    margin-left: 5px;
+    width: 60%;
+}
+#projects {
+    float: left;
+    background-color: #e0e0ed;
+    width: 50%;
+
+}
+h3 {
+    font-weight: 800;
+}
+#projects li {
+    display: list-item;
+    font-weight: 600;
+    color:  #808080 ; 
+     margin-top: 2px; 
+}
+#skills {
+    float: left;
+    background-color: #e0e0ed ;
+    width: 50%;
+   
+}
+#skills li {
+    display: list-item;
+    font-weight: 600;
+    color:  #808080 ;
+    margin-top: 2px; 
+}
+#contact a {
+    color:  #808080 ;
+    text-align: left;
+    padding: 17px;;
+}
+#contact li {
+    display: inline;
+}
+#main-footer {
+	text-align: center;
+	padding: 15px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
